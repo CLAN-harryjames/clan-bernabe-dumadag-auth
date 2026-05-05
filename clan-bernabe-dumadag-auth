@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CLAN Bernabe Dumadag</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: radial-gradient(circle at top, #18345c, #081426 65%);
+      color: white;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+
+    .card {
+      max-width: 430px;
+      width: 100%;
+      background: rgba(17, 31, 53, 0.96);
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 22px;
+      padding: 30px;
+      box-shadow: 0 20px 60px rgba(0,0,0,.35);
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0 0 10px;
+      font-size: 28px;
+      color: #f6c453;
+    }
+
+    p {
+      color: #cbd5e1;
+      line-height: 1.5;
+    }
+
+    a {
+      color: #f6c453;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="card">
+    <h1>CLAN Bernabe Dumadag</h1>
+    <p>Account help page for CLAN Bernabe Dumadag.</p>
+    <p>
+      <a href="./reset-password.html">Reset your password</a>
+    </p>
+  </main>
+</body>
+</html>
